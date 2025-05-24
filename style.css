@@ -5,6 +5,13 @@ header {
 header h1 {
     font-size: 12px;
 }
+
+.container {
+    max-width: 1200px; /* Limits content width */
+    margin: auto; /* Centers the container */
+    padding: 20px; /* Optional padding for better spacing */
+}
+
 body {
     background-color: black;
     font-family: Arial, sans-serif;

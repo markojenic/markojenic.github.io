@@ -19,6 +19,12 @@ body {
     color: white; /* Ensures text is visible on the black background */
 }
 
+footer {
+    text-align: center; /* Centers text inside the footer */
+    padding: 10px; /* Adds space inside the footer */
+    color: white; /* Ensures readability */
+}
+
 h1, p, li { /* Apply styles to all text elements */
     font-weight: bold;
     text-transform: uppercase;

@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    color: white; /* Ensures text is visible on the black background */
+}
+
+h1, p, li { /* Apply styles to all text elements */
+    font-weight: bold;
+    text-transform: uppercase;
+}

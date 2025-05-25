@@ -32,7 +32,7 @@ nav li {
 }
 
 nav a {
-    text-decoration: none; !important;/* Removes underline */
+    text-decoration: none; /* Removes underline */
     color: white; /* Makes text match body color */
 }
 

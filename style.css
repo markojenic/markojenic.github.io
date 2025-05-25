@@ -22,6 +22,12 @@ nav {
     font-size: 12px; 
     color: white;/* Matches body text */
 }
+
+nav a {
+    text-decoration: none; /* Removes underline */
+    color: white; /* Matches your body text color */
+}
+
 nav ul {
     list-style-type: none; /* Removes bullet points */
     padding: 0; /* Removes default padding */

@@ -36,7 +36,7 @@ h1, p, li { /* Apply styles to all text elements */
 }
 
 .lower-text {
-    padding-top: 200px; /* Moves specific text lower */
+    margin-top: 200px; /* Moves specific text lower */
 }
 
 

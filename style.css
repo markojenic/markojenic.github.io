@@ -28,7 +28,7 @@ nav ul {
 
 nav li {
     display: block; /* Ensures each item appears on a new line */
-    margin-bottom: 5px;
+    margin-bottom: 8px;
 }
 
 nav a {

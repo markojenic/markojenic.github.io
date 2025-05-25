@@ -1,7 +1,5 @@
 header {
     text-align: center;
-    header {
-    text-align: center;
     margin-top: 200px; /* Moves the header down */
 }
 
@@ -34,7 +32,7 @@ nav li {
 }
 
 nav a {
-    text-decoration: none; /* Removes underline */
+    text-decoration: none; !important;/* Removes underline */
     color: white; /* Makes text match body color */
 }
 

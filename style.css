@@ -2,7 +2,7 @@ header {
     text-align: center;
     header {
     text-align: center;
-    margin-top: 50px; /* Moves the header down */
+    margin-top: 200px; /* Moves the header down */
 }
 
 }
@@ -32,7 +32,7 @@ footer {
     text-align: center; /* Centers text inside the footer */
     padding: 10px; /* Adds space inside the footer */
     color: white; /* Ensures readability */
-    font-size: 10px;
+    font-size: 8px;
 }
 
 h1, p, li { /* Apply styles to all text elements */

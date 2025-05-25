@@ -1,1 +1,31 @@
-Bibliography
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marko Jenic</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><a href="index.html">MARKO JENIC</a></h1>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="#filmmography.html">Filmmography</a></li>
+                <li><a href="#bibliography.html">Bibliography</a></li>
+                <li><a href="#computer-science.html">Computer Science</a></li>
+                <li><a href="#certification.html">Certification</a></li>
+                <li><a href="#coat-of-arms.html">Coat of Arms</a></li>
+                <li><a href="#manifesto.html">Manifesto</a></li>
+            </ul>
+        </nav>
+             
+    </div>
+    <footer>
+        <p>© 2025 Marko Jenic. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+

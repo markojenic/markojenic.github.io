@@ -34,3 +34,9 @@ h1, p, li { /* Apply styles to all text elements */
     text-transform: uppercase;
     margin-bottom: 0px;
 }
+
+.lower-text {
+    padding-top: 20px; /* Moves specific text lower */
+}
+
+

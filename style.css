@@ -15,6 +15,15 @@ header a {
     font-size: inherit; /* Keeps the header font size */
 }
 
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 60px; /* Adds space above the h2 element */
+}
+
 .container {
     max-width: 1200px; /* Limits content width */
     margin: auto; /* Centers the container */

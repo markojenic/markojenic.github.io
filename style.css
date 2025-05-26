@@ -4,13 +4,24 @@ header {
 }
 
 header h1 {
-    font-size: 14px
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 header a {
     text-decoration: none; /* Removes underline */
     color: white; /* Matches header text color */
     font-size: inherit; /* Keeps the header font size */
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 60px; /* Adds space above the h2 element */
 }
 
 .container {
@@ -60,7 +71,7 @@ footer {
     font-size: 8px;
 }
 
-h1, p, li { /* Apply styles to all text elements */
+p, li { /* Apply styles to all text elements */
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 0px;

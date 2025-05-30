@@ -15,6 +15,10 @@ header a {
     font-size: inherit; /* Keeps the header font size */
 }
 
+.highlight {
+    text-decoration: underline; /* Underlines the text */
+    color: white; /* Matches header text color */
+}
 h2 {
     font-family: Arial, sans-serif;
     font-size: 12px;
@@ -82,7 +86,7 @@ footer p {
 p, li { /* Apply styles to all text elements */
     font-weight: bold;
     text-transform: uppercase;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     text-align: start;
     color: white; /* Ensures text is visible */
 }

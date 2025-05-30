@@ -89,6 +89,6 @@ p, li { /* Apply styles to all text elements */
 iframe {
     display: block;
     margin: auto;
-    width: 85%;
+    width: 100%;
     height: 500px;
 }

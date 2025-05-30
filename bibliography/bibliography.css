@@ -65,6 +65,13 @@ body {
     color: black; /* Ensures text is visible on the black background */
 }
 
+.bibliography {
+    font-family: "Arial", sans-serif;
+    font-size: 12px;
+    text-transform: ;
+    color: black; /* Ensures text is readable */
+}
+
 footer {
     position: relative;
     bottom: 0;
@@ -76,10 +83,22 @@ footer {
     font-size: 8px;
 }
 
-p, li { /* Apply styles to all text elements */
+p, { /* Apply styles to all text elements */
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 0px;
+}
+
+li { /* Apply styles to all text elements */
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+
+.underline {
+    text-decoration: underline;
 }
 
 .lower-text {

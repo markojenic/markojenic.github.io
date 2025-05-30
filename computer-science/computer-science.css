@@ -108,8 +108,8 @@ p, li { /* Apply styles to all text elements */
 
 iframe {
     width: 100%;
-    max-width: 1000px; /* Adjust based on your preferred size */
-    height: 305px;
+    max-width: 380px; /* Adjust based on your preferred size */
+    height: 320px;
     border: none;
 }
 

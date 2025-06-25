@@ -65,10 +65,6 @@ body {
     color: black; /* Ensures text is visible on the black background */
 }
 
-.video-wrapper {
-  margin: 60px 0; /* adds spacing above and below */
-}
-
 footer {
     position: relative;
     bottom: 0;

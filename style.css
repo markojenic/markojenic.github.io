@@ -67,7 +67,6 @@ footer {
     left: 0;
     width: 100%; /* Keeps the footer at the bottom of the page */
     text-align: center; /* Centers text inside the footer */
-    margin-top: 20px;
     padding: 10px; /* Adds space inside the footer */
     color: white; /* Ensures readability */
     font-size: 8px;
